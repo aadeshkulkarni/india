@@ -1,7 +1,7 @@
 ### App
 
 India.figuringout.life - Let's fix India's problems, one step at a time. 
-Indian Population ~ 1,400,000,000. We are 1/5th of the World's population. One of the biggest reasons for the India's Growth is the size of our population (allegedly!). 
+Indian Population ~ 1,400,000,000. We are 1/5th of the World's population. One of the biggest reasons for India's slow Growth is the size of our population (allegedly!). 
 
 I don't think the population is the reason, rather, the inability of the population to collaborate together and solve the problems. This app is an attempt to discover all the pain points within India. 
 The first step towards change is acceptance. Accepting that there is a problem, clearly defining it, prioritzing it and resolving it. 
